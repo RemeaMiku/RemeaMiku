@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3000&pause=1000&color=FFFFFF&background=39C5BB&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Let's+build+the+Mirai!;%E8%AE%A9%E6%88%91%E4%BB%AC%E6%9E%84%E5%BB%BA%E6%9C%AA%E6%9D%A5%EF%BC%81" alt="Typing SVG" /></a></div> 
+
+<div align="center"> <img src="https://metrics.lecoq.io/Remeamiku?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remeamiku&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=0,1373ff,40f4db" /> </div>
 
 <!--
 **RemeaMiku/RemeaMiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
