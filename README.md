@@ -4,6 +4,7 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remeamiku&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ededed&icon_color=fff&bg_color=0,b953fc,27c4fb" /> </div>
 
+![Miraisoft](Miraisoft.svg)
 <!--
 **RemeaMiku/RemeaMiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
