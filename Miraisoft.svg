@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 591.31 131.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #666;
+        font-family: MicrosoftYaHeiUI, 'Microsoft YaHei UI';
+        font-size: 100px;
+        stroke: #666;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #39c5bb;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #333;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="_图层_2" data-name="图层 2">
+    <rect class="cls-2" x="6.41" width="125.67" height="125.67"/>
+  </g>
+  <g id="_图层_3" data-name="图层 3">
+    <rect class="cls-3" y="64.55" width="70.86" height="20.28"/>
+    <rect class="cls-3" y="95.74" width="70.86" height="20.17"/>
+  </g>
+  <g id="_图层_4" data-name="图层 4">
+    <text class="cls-1" transform="translate(168.04 104.03)"><tspan x="0" y="0">Mirais</tspan><tspan class="cls-4" x="290.67" y="0">o</tspan><tspan class="cls-5" x="352.29" y="0">f</tspan><tspan class="cls-6" x="386.72" y="0">t</tspan></text>
+  </g>
+</svg>
